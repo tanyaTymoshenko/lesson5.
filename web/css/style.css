@@ -1,0 +1,129 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Patua+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Patua+One&family=Sofia&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;1,200&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Patua+One&family=Sofia&display=swap"); */
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@500;600;700&family=Pacifico&family=Patua+One&family=Sofia&display=swap');
+/* font-family: "Pacifico", cursive; */
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@500;600;700&family=Pacifico&family=Patua+One&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Sofia&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@500;600;700&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Pacifico&family=Patua+One&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Sofia&display=swap');
+
+body {}
+
+.title {
+    font-size: 40px;
+    font-style: italic;
+    font-weight: 900;
+    color: #9b0303;
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: 1px 1px 5px red;
+    font-family: "Pacifico", cursive;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    word-spacing: 15px;
+}
+
+.body {
+    font-size: 30px;
+    font-style: oblique;
+    font-weight: 400;
+    color: blue;
+    text-align: left;
+    text-decoration: underline;
+    text-shadow: 1px 1px 5px blue;
+    font-family: "Roboto", sans-serif;
+    letter-spacing: 7px;
+}
+
+.text {
+    font-size: 20px;
+    font-style: normal;
+    color: grey;
+    text-align: justify;
+    text-decoration: overline;
+    text-shadow: 1px 1px 5px grey;
+    font-family: "Montserrat", sans-serif;
+    text-transform: capitalize;
+    line-height: 2;
+    text-indent: 30px;
+    background-color: burlywood;
+
+}
+
+.text2 {
+    font-size: 20px;
+    font-style: normal;
+    color: aquamarine;
+    text-align: right;
+    text-decoration: line-through;
+    text-shadow: -2px -2px -5px aquamarine;
+    font-family: "Montserrat", sans-serif;
+    text-transform: uppercase;
+    line-height: 1.5;
+    word-spacing: 10px;
+}
+
+.text3 {
+    font-size: 20px;
+    font-style: normal;
+    color: darkolivegreen;
+    text-align: left;
+    text-decoration: none;
+    text-shadow: 3px 3px 6px darkolivegreen;
+    font-family: "Montserrat", sans-serif;
+    text-transform: lowercase;
+    line-height: 1.8;
+    text-indent: 20px;
+    word-spacing: 20px;
+}
+
+.text4 {
+    font-size: 20px;
+    font-style: normal;
+    color: orangered;
+    text-align: right;
+    text-decoration: underline;
+    text-shadow: 1px 1px 5px yellow;
+    font-family: "Montserrat", sans-serif;
+    text-transform: capitalize;
+    line-height: 2.5;
+    white-space: nowrap;
+}
+
+.block {
+    /* padding-left: 30px;
+    padding-top: 40px;
+    padding-right: 30px;
+    padding-bottom: 50px; */
+    padding: 40px 30px 50px;
+}
+
+.block2 {
+    padding: 50px 50px 60px 30px;
+}
+
+.block3 {
+    padding: 20%;
+    background-color: #9b0303;
+}
+
+.block4 {
+    margin: 20px;
+    background-color: bisque;
+}
+
+.block5 {
+    margin: 50px;
+    background-color: cadetblue;
+}
+
+.block6 {
+    margin-bottom: -30px;
+}
+
+.image {
+    margin-left: 70px;
+}
